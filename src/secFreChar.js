@@ -1,7 +1,7 @@
 
-//qn: second frequent char
+//qn: second frequent character
 
-const a = "jjjaaaccr";
+const a = "jjjaaaccrarr";
 let first=0
 let sec=0
 let ans=''
@@ -20,4 +20,4 @@ if(count>first){
   ans=a[i]
 }
 }
-console.log(ans)
+// console.log(ans)
